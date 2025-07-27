@@ -15,9 +15,11 @@ form {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     width: 100%;
     max-width: 400px;
+    box-sizing: border-box;
 }
 
 label {
+    display: block;
     margin-bottom: 5px;
     font-weight: bold;
     color: #333;
@@ -28,8 +30,8 @@ input {
     margin-bottom: 20px;
     border: 1px solid #ccc;
     border-radius: 4px;
-    width: calc(100% - 22px); /* Adjust width to account for padding and border */
-    box-sizing: border-box; /* Include padding and border in element's total width and height */
+    width: 100%;
+    box-sizing: border-box;
 }
 
 button {
@@ -41,7 +43,6 @@ button {
     font-size: 16px;
     cursor: pointer;
     width: 100%;
-    box-sizing: border-box;
     transition: background-color 0.3s ease;
 }
 
@@ -52,8 +53,7 @@ button:hover {
 #form-feedback {
     margin-top: 10px;
     padding: 10px;
-    color: #d8000c;
-    background-color: #ffbaba;
     border-radius: 4px;
-    display: none; /* Initially hide the feedback div */
+    display: none;
+    font-weight: bold;
 }
