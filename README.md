@@ -78,4 +78,4 @@ If validation fails:
 
 ---
 
-&copy; July 28, 2025. ALX Africa | Front-end Development. All rights reserved.
+&copy; July 28 - August 2, 2025. ALX Africa | Front-end Development. All rights reserved.
