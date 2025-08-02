@@ -2,8 +2,6 @@
 
 ---
 
----
-
 # TASK 1:
 
 Welcome to the **Deep Dive into JavaScript** project!
@@ -78,8 +76,6 @@ If validation fails:
 
 ---
 
----
-
 # TASK 2: *fetch-data*
 
 ## 🌐 Fetching User Data from an API
@@ -101,8 +97,6 @@ User List:
 `Ervin Howell`
 
 `Clementine Bauch`
-
----
 
 ---
 
