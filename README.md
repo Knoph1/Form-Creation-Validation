@@ -2,6 +2,10 @@
 
 ---
 
+---
+
+# TASK 1:
+
 Welcome to the **Deep Dive into JavaScript** project!
 
 This project focuses on building a user registration form that performs client-side validation and fetches user data from a public API.
@@ -74,7 +78,35 @@ If validation fails:
 
 ---
 
-🚀 My Happy Coding!
+---
+
+# TASK 2: *fetch-data*
+
+## 🌐 Fetching User Data from an API
+
+This module fetches user data from the public API at [JSONPlaceholder](https://jsonplaceholder.typicode.com/users) and displays a list of names on the webpage.
+
+### 🧠 Features
+
+- Asynchronous data fetching using `fetch()` and `async/await`.
+- Error handling with fallback messages.
+- Clean, responsive user interface.
+
+### 🧪 Example Output
+
+User List:
+
+`Leanne Graham`
+
+`Ervin Howell`
+
+`Clementine Bauch`
+
+---
+
+---
+
+## 🚀 My Happy Coding!
 
 *Master JavaScript DOM manipulation and form validation.*
 
