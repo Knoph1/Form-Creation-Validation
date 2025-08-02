@@ -2,7 +2,9 @@
 
 ---
 
-Welcome to the **Deep Dive into JavaScript** project! This project focuses on building a user registration form that performs client-side validation and fetches user data from a public API.
+Welcome to the **Deep Dive into JavaScript** project!
+
+This project focuses on building a user registration form that performs client-side validation and fetches user data from a public API.
 
 ## 🧠 Learning Objectives
 
@@ -78,4 +80,6 @@ If validation fails:
 
 ---
 
-&copy; July 28 - August 2, 2025. ALX Africa | Front-end Development. All rights reserved.
+&copy; July 28 - August 2, 2025
+
+ALX Africa | Front-end Development. All rights reserved.
